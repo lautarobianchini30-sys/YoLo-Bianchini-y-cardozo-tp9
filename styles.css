@@ -1,0 +1,21 @@
+/* Estilos del panel de YoLo.
+   Este archivo está casi vacío a propósito: el diseño lo hacés vos. */
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #e80e0e;
+  text-align: center;
+}
+p {
+  color: #8f519b;
+  line-height: 1.6;
+  margin: 0 0 1em;
+   text-align: center;
+}
+h2 {
+  color: #e80e0e;
+  text-align: center;
+}
